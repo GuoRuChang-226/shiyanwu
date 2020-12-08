@@ -1,4 +1,5 @@
 # 实验五 模拟学生作业处理
+# 计191 郭洳畅 2019310196
 
 ## 实验目的
 
@@ -36,7 +37,7 @@
 
 ## 实验截图
 
-!()
+!(https://github.com/GuoRuChang-226/shiyanwu/blob/main/5db84319ecea72713e082bf46b52abe.png)
 
 ## 实验感想
 #### 了解了如何使用string及其它的使用方法，学会了如何读取和写入文件，将文本b中的内容读取，存储到文本a中。使用了IOException e和Exception e来进行异常处理。在此实验中，还加入了switch开关来进行学生的交互处理。
